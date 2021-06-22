@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;700&display=swap');
+
+body{
+    font-family:'Lato', sans-serif;
+}
+header{
+    font-weight: bold;
+}
+
+.heroe{
+    background: cornsilk url("../img/foto.png") no-repeat center;
+    background-size: cover;
+    height: 400px;
+}
+
+h1{
+    font-weight: 700;
+    text-align: center;
+}
+
+h2{
+    font-weight: 200;
+}
+
+.pie{
+    margin-right: 20px;
+    font-size: 30px;
+    color: red;
+}
